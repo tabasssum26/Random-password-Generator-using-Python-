@@ -1,4 +1,8 @@
+# Installation  python and pycharm 
+https://www.youtube.com/watch?v=4b-tTEthCzg&t=5s
+
 # Random-password-Generator-using-Python-
+## see this vedio -https://www.youtube.com/watch?v=-ARqFKWP5AU&t=19s
 ## Overview
 The "Random Password Generator" project is a Python-based utility designed to provide users with secure and customizable password generation. This tool ensures the creation of strong passwords by offering options for uppercase and lowercase letters, digits, and symbols. Built with simplicity in mind, it provides an efficient solution for users seeking a reliable password generation tool.
 ## Features
